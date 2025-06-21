@@ -1,0 +1,11 @@
+[package]
+name = "rsplayground"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+stdweb = "0.4.20"
+clap = "4.5.20"
+walkdir = "2.4.0"
+glob = "0.3.1"
+args = "2.2.0"
